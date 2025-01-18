@@ -18,3 +18,5 @@ Languages
 Assets
   https://brackeysgames.itch.io/brackeys-platformer-bundle
 
+Game:
+  The final game is an mp4 video . I am bad gamerr but a beginner in game dev!!!
